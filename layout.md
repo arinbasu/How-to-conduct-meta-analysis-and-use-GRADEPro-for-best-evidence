@@ -1,3 +1,2 @@
 untitled.html
-figures/Otitis_Media
-334863j99co.html
+meta_analysis.html
