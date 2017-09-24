@@ -1,0 +1,161 @@
+Meta analysis
+
+\t
+
+refers to
+
+\t
+
+Pooling
+
+\t
+
+can be
+
+\t
+
+Random Effects
+
+\t
+
+can be
+
+\t
+
+Fixed Effects
+
+\t
+
+of
+
+\t
+
+Studies
+
+\t
+
+obtained by
+
+\t
+
+Searching
+
+\t
+
+using
+
+\t
+
+Boolean and fuzzy logic
+
+\t
+
+pico criteria
+
+\t
+
+of
+
+\t
+
+Literature databases
+
+\t
+
+selection criteria
+
+\t
+
+can cause
+
+\t
+
+Publication Bias
+
+\t
+
+can be assessed using
+
+\t
+
+Funnel Plot
+
+\t
+
+can be done with
+
+\t
+
+R
+
+\t
+
+using
+
+\t
+
+I-squared stats
+
+\t
+
+measured by
+
+\t
+
+heterogeneity testing
+
+\t
+
+can be done using
+
+\t
+
+Forest Plot
+
+\t
+
+meta-regression
+
+\t
+
+can be used for
+
+\t
+
+subsets
+
+\t
+
+will lead to
+
+\t
+
+Risk of Bias
+
+\t
+
+GRADEpro
+
+\t
+
+must be assessed for
+
+\t
+
+filtered with
+
+\t
+
+must be tested for
+
+\t
+
+can be assessed using
+
+\t
+
+Can be done using
+
+\t
+
+assessed with

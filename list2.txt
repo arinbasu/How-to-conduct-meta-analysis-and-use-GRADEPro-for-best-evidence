@@ -1,0 +1,346 @@
+1. Acta Otorhinolaryngol Belg. 1994;48(4):317-24.
+
+The long term outcome of secretory otitis media in children and the effects of
+surgical treatment: a ten year study.
+
+Maw AR(1), Bawden R.
+
+Author information:
+(1)Department of Otolaryngology, Bristol Royal Infirmary, Royal Hospital for Sick
+Children, UK.
+
+Two hundred and twenty two children with bilateral secretory otitis media were
+allocated at random for adenoidectomy, adenotonsillectomy or for neither
+procedure. In all cases only a unilateral grommet was inserted. The contralateral
+unoperated ear was examined during a ten year period to show otoscopic clearance,
+change in tympanometric status and improvement in mean hearing threshold.
+Adenoidectomy or insertion of a grommet alone produces similar improvement but in
+combination are more effective than either procedure in isolation. The unoperated
+ear in cases not receiving either procedure reflects the natural history of the
+condition. It shows a steady improvement in all outcome measures as time passes.
+
+
+PMID: 7810300  [Indexed for MEDLINE]
+
+
+2. BMJ. 1993 Mar 20;306(6880):756-60.
+
+Spontaneous resolution of severe chronic glue ear in children and the effect of
+adenoidectomy, tonsillectomy, and insertion of ventilation tubes (grommets).
+
+Maw R(1), Bawden R.
+
+Author information:
+(1)Department of Otolaryngology, Bristol Royal Infirmary.
+
+OBJECTIVE: To measure the time to spontaneous resolution of severe chronic otitis
+media with effusion (glue ear) in children and study the effects of
+adenoidectomy, adenotonsillectomy, and ventilation tubes (grommets).
+DESIGN: Randomised controlled study over 12 years.
+SETTING: Paediatric otorhinolaryngology clinics and in-patient unit.
+SUBJECTS: 228 children aged 2-9 years with pronounced hearing loss from glue ear
+and persistent bilateral middle ear effusions confirmed on three occasions over
+three months.
+INTERVENTIONS: Children were randomly allocated to adenotonsillectomy,
+adenoidectomy, or neither procedure. In all groups a Shepard type ventilation
+tube was inserted in one randomly chosen ear. Follow up was annually for five
+years and then less often for up to seven years four months. For analysis the two
+operated groups were combined.
+MAIN OUTCOME MEASURES: Otoscopic clearance of fluid, change in tympanogram, and
+improvement in mean audiometric hearing threshold.
+RESULTS: Survival analysis showed appreciable otoscopic and tympanometric
+resolution of fluid with ventilation tubes alone and adenoidectomy alone compared
+with no surgery. Further improvement was seen after combination of both
+treatments. Mean audiometric hearing thresholds improved with fluid resolution.
+Resolution was delayed in younger children and in those whose parents smoked,
+irrespective of treatment. Whereas a single insertion of a Shepard tube resolved
+the glue for a mean (SD) period of 9.5 (5.2) months, the effect of adenoidectomy
+was sustained throughout follow up.
+CONCLUSIONS: Treatment of glue ear considerably shortened the time to fluid
+resolution, combined adenoidectomy and tube insertion being better than either
+procedure alone. Resolution was longer in younger children and those whose
+parent(s) smoked, irrespective of treatment.
+
+
+PMCID: PMC1677213
+PMID: 8490338  [Indexed for MEDLINE]
+
+
+3. BMJ. 1990 Jun 16;300(6739):1551-6.
+
+A randomised controlled trial of surgery for glue ear.
+
+Black NA(1), Sanderson CF, Freeland AP, Vessey MP.
+
+Author information:
+(1)Department of Public Health and Policy, London School of Hygiene and Tropical
+Medicine.
+
+Comment in
+    BMJ. 1990 Aug 4;301(6746):289-90.
+
+OBJECTIVE: To assess the effect of five different surgical treatments for glue
+ear (secretory otitis media) on improvement in hearing and, assuming one or more
+treatments to be effective, to identify the appropriate indications for surgery.
+DESIGN: Randomised controlled trial of children receiving (a) adenoidectomy,
+bilateral myringotomy, and insertion of a unilateral grommet; (b) adenoidectomy,
+unilateral myringotomy, and insertion of a unilateral grommet; (c) bilateral
+myringotomy and insertion of a unilateral grommet; and (d) unilateral myringotomy
+and insertion of a grommet. Children were followed up at seven weeks, six months,
+12 months, and 24 months by symptom history and clinical investigations.
+SETTING: Otolaryngology department in an urban hospital.
+PATIENTS: 149 Children aged 4-9 years who were admitted for surgery for glue ear
+and who had no history of previous operations on tonsils, adenoids, or ears and
+no evidence of sensorineural deafness. Inadequate follow up information on levels
+of hearing and on middle ear function was obtained from 22.
+MAIN OUTCOME MEASURES: Mean hearing loss (dB) of the three worst heard
+frequencies between 250 and 4000 Hz, results of impedance tympanometry, and
+parental views on their child's progress.
+RESULTS: In the 127 children for whom adequate information was available ears in
+which a grommet had been inserted performed better in the short term (for at
+least six months) than those in which no grommet had been inserted, irrespective
+of any accompanying procedure. Most of the benefit had disappeared by 12 months.
+Adenoidectomy produced a slight improvement that was not significant, though was
+sustained for at least two years. The ears of children who had had an
+adenoidectomy with myringotomy and grommet insertion, however, continued to
+improve so that two years after surgery about 50% had abnormal tympanometry
+compared with 83% of those who had had only myringotomy and grommet insertion,
+and 93% of the group that had had no treatment. Logistic regression analyses
+identified preoperative hearing level as the single best predictor of good
+outcome from surgery. Other variables contributed little additional predictive
+power.
+CONCLUSIONS: If the principal objective of surgery for glue ear is to restore
+hearing then our study shows that insertion of grommets is the treatment of
+choice. The addition of an adenoidectomy will increase the likelihood of
+restoration of normal function of the middle ear but will not improve hearing.
+When deciding appropriate indications for surgery, a balance has to be made
+between performing unnecessary operations and failing to treat patients who might
+benefit from surgical intervention. Preoperative audiometry scores might be the
+best predictor in helping to make this decision.
+
+
+PMCID: PMC1663097
+PMID: 2196954  [Indexed for MEDLINE]
+
+
+4. J Laryngol Otol. 1993 Apr;107(4):284-9.
+
+A randomized study of the surgical management of children with persistent otitis
+media with effusion associated with a hearing impairment.
+
+Dempster JH(1), Browning GG, Gatehouse SG.
+
+Author information:
+(1)Department of Otolaryngology, Royal Infirmary, Glasgow.
+
+The object of this study was to compare the effect on the hearing of the
+insertion of a grommet, with or without adenoidectomy, against a non-surgically
+managed control ear in children with persistent hearing impairment due to otitis
+media with effusion. Seventy-eight children (44 boys, 34 girls, mean age 5.8
+years) with documented bilateral otitis media with effusion associated with a
+bilateral hearing impairment (pure tone average air conduction thresholds over
+0.5, 1 and 2 kHz of > or = 25 dB HL) over a three month period were admitted to a
+randomized, controlled trial. Each child was randomized to have or not to have an
+adenoidectomy. The ears in each child were then randomly allocated to have a
+grommet (tympanostomy tube) inserted. The children's hearing status was reviewed
+six and 12 months post-operatively. During follow-up, should a child redevelop a
+persistent bilateral hearing impairment (as defined above) for three months they
+were managed with a hearing aid. Thus no child had repeat insertion of a grommet.
+Surgery of each type had an effect on the hearing and the presence of otitis
+media with effusion at six months post-operatively but not at 12 months when it
+was no different from natural resolution. If resolution of the otitis media with
+effusion is the outcome measure, then adenoidectomy alone is significantly better
+than no surgery but only in boys rather than in girls. Even in boys it only
+resolves about 60 per cent of effusions. However, when combined with a grommet
+(one insertion) adenoidectomy gives no greater resolution (89 per cent compared
+with 86 per cent).(ABSTRACT TRUNCATED AT 250 WORDS)
+
+
+PMID: 8320510  [Indexed for MEDLINE]
+
+
+5. Pediatr Infect Dis J. 1991 Jan;10(1):2-11.
+
+Evaluation of ventilating tubes and myringotomy in the treatment of recurrent or
+persistent otitis media.
+
+Le CT(1), Freeman DW, Fireman BH.
+
+Author information:
+(1)Department of Pediatrics, Kaiser Permanente Medical Center, Sacramento, CA
+95403-2192.
+
+Comment in
+    Pediatr Infect Dis J. 1991 Apr;10(4):269-74.
+
+In a prospective controlled study of the efficacy and sequelae of ventilating
+tubes, 44 children with bilateral recurrent acute otitis media (greater than 6
+episodes/year) and 13 children with bilateral persistent middle ear effusion
+(greater than 3 months) received unilateral ventilating tube insertion in a
+randomly selected ear. The contralateral ears were randomized to receive either
+myringotomy alone or no surgery. Clinical, otoscopic, tympanometric and
+audiologic examinations were performed before the study and 2 to 4 weeks later,
+then at 3-month intervals for up to 2 years and at 36 months after surgical
+randomization. Medical therapy and antibiotic prophylaxis were used whenever
+indicated. While the ventilating tubes remained functional (mean duration, 10
+months) the ears with a tube had significantly fewer episodes of otitis media
+than their contralateral ear (P less than 0.001; 95% confidence intervals -0.7,
+-1.7) and had more hearing improvement (P = 0.005; 95% confidence intervals,
+-5.9, -1.2). After tube extrusion there was a tendency for surgically treated
+ears to have more otitis and worse hearing, but not at a significant level.
+Tympanosclerosis, retraction and atrophy were more common in ears that received
+tubes. The majority of ears treated medically also improved. There is need for a
+more cautious and selective use of ventilating tubes.
+
+
+PMID: 2003051  [Indexed for MEDLINE]
+
+
+6. Clin Otolaryngol. 2012 Apr;37(2):107-16. doi: 10.1111/j.1749-4486.2012.02469.x.
+
+Adjuvant adenoidectomy in persistent bilateral otitis media with effusion:
+hearing and revision surgery outcomes through 2 years in the TARGET randomised
+trial.
+
+MRC Multicentre Otitis Media Study Group(1).
+
+Collaborators: Haggard MP, Gannon MM, Birkin JA, Bennett KE, Nicholls EE, Spencer
+H, Browning GG, Georgalas C, Daniel M, Bhutta M, Higson JM, Smith SC, Hind SE,
+Rovers MM, Egner EM, Hayman T, Greenwood DC, Carroll RA, Jones H, Richmond TB,
+Wade AR, Moorjani P, Pearson DA, Kirk G, Baskill JL, Adams DA, Toner JG, Gibbin
+KP, Jones NS, Birchall JP, Thomas RS, Narula AA, Murty GE, Griffiths MV, Wilson
+JA, Meikle D, Johnson IJ, Date S, Kerr AI, Robinson D, Madden G, Bull PD, Chapman
+DF, Parker AJ, Curry AR, Williams RG, Morrissey MS, Geddes NK, Zarod AP, Willatt
+DJ, Proops D, Pearman K, Robb PJ, MacKee I, Law K, Casey M, Megarry A, Smith L,
+Smethurst H, Pearce G, Hook P, Phipps J, Gibbs S, Dunster S, Brown E, Birch EM,
+Page V, Sim A, Sharples G, Crawford J, Davies C, Bartolo J, Edwards C, Wilson J,
+Johnson N, Baxendale C, Welsby W, Pickavance N, Cox V, Markham K, Robb JA,
+Flanagan R, Housten G, Jordan G, Bingham M, Cassidy J, Burns C, Hamill C, Glover
+L, Eccles L, Armstrong-Bednall G, Towle B, Dyer K, Carr J, Herrod J, Levick A,
+Dunmore P, Parker-Emery C, Sutton R, Gordon C, Midgley L, Barnett N, Foley R,
+Machlin R, Elliott C, Davidson T, Walker L, Keith J, Brady M, Barr-Hamilton R,
+Wilson S, McKenzie J, Edgar R, Noble H, Thomas H, Paul B, Gilbert M, Hoblyn R,
+Walter S, Griffiths E, Inge F, Hodges M, Lawrence C, Walsh A, Loxley T, Byrom P,
+Walker D, Najaran R, Blyth G, Mace L, Rabaiotti W, Trearty C, Carmichael A,
+Ronson R, France K, Pilkington H, Hilton F, Parsons J, Whitby G, Robinson S,
+Brown E, James P, Allen R.
+
+Author information:
+(1)MRC Scottish Section Institute of Hearing Research, Glasgow, UK.
+
+OBJECTIVES: To determine the adjuvant effects of adenoidectomy with short-stay
+ventilation tubes to hearing and revision surgery in children over 3.5 years with
+persistent otitis media with effusion.
+DESIGN: Randomised controlled three armed trial: observation, short-stay
+ventilation tube or ventilation tubes with adjuvant adenoidectomy. Five follow-up
+visits over 2 years.
+SETTING: Eleven UK Otorhinolaryngology Departments.
+PARTICIPANTS: Children with bilateral otitis media with effusion and better ear
+hearing level (HL) ≥20 dB persistent for 3 months. Of the 425 eligible children,
+376 (88%) accepted randomisation.
+MAIN OUTCOME MEASURES: Pure-tone hearing thresholds, eligibility for and actual
+revision surgery rates, otoscopic sequelae and complications of adenoidectomy.
+RESULTS: Loss to follow-up at 3, 12 and 24 months was 2%, 6% and 5% respectively.
+Of the 376 randomised children, 253 (67%) had complete data for all five
+follow-up visits. Adenoidectomy did not add to the benefit to hearing thresholds
+of ventilation tubes of 8.8 dB (CI: 7.1-10.5) averaged over 3-6 months
+postoperatively. Averaged over 12, 18 and 24 months, adenoidectomy provided 4.2
+dB of benefit (CI: 2.6-5.7) whilst ventilation tubes gave no benefit.
+Standardised effect sizes through two years showed equal benefit from ventilation
+tubes (0.50 sd) and adenoidectomy (0.61 sd) which are additive (1.11 sd).
+Adenoidectomy halved the numbers meeting a 25 dB HL bilateral cut-off for
+eligibility for repeat tube surgery from 31% to 14% at 12 months and from 33% to
+15% at 18 months. The actual reduction in re-insertion surgery (absolute risk
+difference) was 21%. In tubed ears, tympanosclerosis occurred in 27%, but
+otorrhoea in only <2% and permanent perforations in <1%. These events did not
+occur in control ears. In children that had adenoidectomy, one of 165 (0.6%) had
+haemorrhage that required return to theatre.
+CONCLUSIONS: Adjuvant adenoidectomy doubles benefit from short-stay ventilation
+tubes by extending better hearing through the second year in children aged
+3.25-6.75 years with persistent otitis media with effusion with at least a 20 dB
+HL in both ears. The duration of benefit of adenoidectomy is related to the
+duration of function of the type of the ventilation tubes used. Adenoidectomy
+also substantially reduces eligibility for revision surgery.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1749-4486.2012.02469.x
+PMID: 22443163  [Indexed for MEDLINE]
+
+
+7. Laryngoscope. 2004 May;114(5):844-9.
+
+Laser myringotomy versus ventilation tubes in children with otitis media with
+effusion: a randomized trial.
+
+Koopman JP(1), Reuchlin AG, Kummer EE, Boumans LJ, Rijntjes E, Hoeve LJ, Mulder
+PG, Blom HM.
+
+Author information:
+(1)Department of Pediatric Otolaryngology, Erasmus Medical Center, Rotterdam, The
+Netherlands. j.koopman@leyenburg-ziekenhuis.nl
+
+OBJECTIVES: Insertion of ventilation tubes in children with otitis media with
+effusion (OME) is an accepted and common treatment procedure. The majority of
+patients require general anesthesia. Although laser myringotomy can be performed
+in local anesthesia, evidence is lacking that this treatment modality is an
+alternative for tubes, and outcome predictors for laser myringotomy are not
+available.
+STUDY DESIGN: Prospective randomized trial.
+METHODS: We screened 1,403 children with chronic OME that were indicated for
+placement of ventilation tubes. In the eligible patients, we performed laser
+myringotomy in one ear and placed a tube in the other ear, both within the same
+patient. Follow-up was scheduled each month for 6 months. Success was defined as
+absence of effusion or aural discharge. A logistic regression model was used with
+success of the therapy as binary outcome. This model was based on base-line
+variables, asked for in a parent's questionnaire.
+RESULTS: Two hundred eight children received the allocated intervention, and no
+complications occurred. The mean closure time of the laser perforation was 2.4
+weeks, and the mean patency time of the ventilation tube was 4.0 months. The mean
+success rate was 40% for laser and 78% for tubes. Ten known variables were found
+to predict middle ear status after therapy.
+CONCLUSION: Laser myringotomy is a safe but less-effective procedure than
+insertion of a ventilation tube in the treatment of chronic OME. The prognostic
+model enables the otolaryngologist to choose the surgical treatment for the child
+that benefits most: laser myringotomy or ventilation tube.
+
+DOI: 10.1097/00005537-200405000-00010
+PMID: 15126741  [Indexed for MEDLINE]
+
+
+8. J Laryngol Otol. 2011 Mar;125(3):274-8. doi: 10.1017/S0022215110002549. Epub 2010
+Dec 16.
+
+Adenoidectomy plus tympanostomy tube insertion versus adenoidectomy plus
+myringotomy in children with obstructive sleep apnoea syndrome.
+
+Vlastos IM(1), Houlakis M, Kandiloros D, Manolopoulos L, Ferekidis E, Yiotakis I.
+
+Author information:
+(1)Department of Otorhinolaryngology, Aghia Sophia Children's Hospital of Athens,
+Athens, Greece. giannisvlastos@yahoo.gr
+
+OBJECTIVE: To determine whether tympanostomy tube insertion has benefit, compared
+with simple myringotomy, in children with otitis media with effusion who receive
+concurrent adenoidectomy as treatment for obstructive sleep apnoea syndrome
+caused by adenoid hypertrophy.
+METHODS: Fifty-two children older than three years with obstructive sleep apnoea
+syndrome were randomly assigned to receive either adenoidectomy plus tympanostomy
+tube insertion (group one, n = 25) or adenoidectomy plus myringotomy (group two,
+n = 27). Pre- and post-operative health-related quality of life was assessed
+using the otitis media-6 (OM-6) tool, and audiological outcomes were recorded six
+and 12 months post-operatively.
+RESULTS: Group one showed better quality of life scores six months
+post-operatively (score difference -0.38, confidence interval -0.65 to -0.10) but
+not 12 months post-operatively (score difference -0.23, confidence interval -0.76
+to 0.11), compared with pre-operative values. Audiological outcomes did not
+differ significantly at either time point, compared with pre-operative values.
+CONCLUSION: Tympanostomy tube insertion confers a short term benefit, compared
+with simple myringotomy, in children older than three years with otitis media
+with effusion who receive concurrent adenoidectomy as treatment for obstructive
+sleep apnoea syndrome. Further studies are necessary to identify which of these
+children will receive long-lasting benefit from tympanostomy tube insertion.
+
+DOI: 10.1017/S0022215110002549
+PMID: 21205368  [Indexed for MEDLINE]
+

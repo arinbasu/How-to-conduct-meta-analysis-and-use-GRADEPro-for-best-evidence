@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.1" ID="B0A6FEB7-86A7-4730-82AB-2B43E5522411">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="721.0,251.0" Width="77.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>pico criteria</String>
+            <ConnectedNoteIDs>29</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="543.0,27.0" Width="87.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Meta analysis</String>
+            <ConnectedNoteIDs>23</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="268.0,406.0" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>R</String>
+            <ConnectedNoteIDs>42, 44, 47, 52</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,1</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="384.0,75.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Pooling</String>
+            <ConnectedNoteIDs>23, 25, 36-37, 39, 50</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="575.0,171.0" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Searching</String>
+            <ConnectedNoteIDs>26, 28-29, 31</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="67.507812,152.3125" Width="130.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>heterogeneity testing</String>
+            <ConnectedNoteIDs>50-51</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,21</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="105.0,259.0" Width="94.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>I-squared stats</String>
+            <ConnectedNoteIDs>51-52</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="251.0,165.0" Width="83.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Fixed Effects</String>
+            <ConnectedNoteIDs>36</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,13</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="369.0,163.0" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Random Effects</String>
+            <ConnectedNoteIDs>37</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,14</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="269.0,241.0" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Forest Plot</String>
+            <ConnectedNoteIDs>39, 42</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="361.0,243.0" Width="77.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Risk of Bias</String>
+            <ConnectedNoteIDs>21, 38, 46</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="821.0,247.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Publication Bias</String>
+            <ConnectedNoteIDs>34, 41</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,16</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="356.0,354.0" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>GRADEpro</String>
+            <ConnectedNoteIDs>18</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="470.0,47.0" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>refers to</String>
+            <ConnectedNoteIDs>4, 7</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="538.0,85.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Studies</String>
+            <ConnectedNoteIDs>25-26, 32, 38</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="479.0,80.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>of</String>
+            <ConnectedNoteIDs>7, 24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="568.0,126.0" Width="71.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>obtained by</String>
+            <ConnectedNoteIDs>10, 24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="445.0,228.0" Width="126.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Literature databases</String>
+            <ConnectedNoteIDs>28</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,20</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="538.0,199.0" Width="20.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>of</String>
+            <ConnectedNoteIDs>10, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="600.0,198.0" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>using</String>
+            <ConnectedNoteIDs>0, 10, 30</ConnectedNoteIDs>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="568.0,254.0" Width="145.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Boolean and fuzzy logic</String>
+            <ConnectedNoteIDs>29</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,23</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="762.0,146.0" Width="104.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>selection criteria</String>
+            <ConnectedNoteIDs>10, 32, 34</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,18</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="32" FontSize="12.0" Position="659.0,112.0" Width="69.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>filtered with</String>
+            <ConnectedNoteIDs>24, 31</ConnectedNoteIDs>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="819.0,400.0" Width="74.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Funnel Plot</String>
+            <ConnectedNoteIDs>41, 44</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,11</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="821.0,190.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can cause</String>
+            <ConnectedNoteIDs>20, 31</ConnectedNoteIDs>
+            <PointsToNoteIDs>20</PointsToNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="333.808594,115.675781" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be</String>
+            <ConnectedNoteIDs>7, 15</ConnectedNoteIDs>
+            <PointsToNoteIDs>15</PointsToNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="386.324219,123.136719" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be</String>
+            <ConnectedNoteIDs>7, 16</ConnectedNoteIDs>
+            <PointsToNoteIDs>16</PointsToNoteIDs>
+        </Note>
+        <Note ID="38" FontSize="12.0" Position="445.0,136.0" Width="123.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>must be assessed for</String>
+            <ConnectedNoteIDs>18, 24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="12.0" Position="268.0,194.0" Width="131.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be assessed using</String>
+            <ConnectedNoteIDs>7, 17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="40" FontSize="12.0" Position="320.0,273.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Can be done using</String>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="819.0,289.0" Width="131.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be assessed using</String>
+            <ConnectedNoteIDs>20, 33</ConnectedNoteIDs>
+            <PointsToNoteIDs>33</PointsToNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="226.0,288.0" Width="107.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be done using</String>
+            <ConnectedNoteIDs>5, 17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="565.0,406.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be done with</String>
+            <ConnectedNoteIDs>5, 33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="549.0,308.0" Width="54.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>subsets</String>
+            <ConnectedNoteIDs>46, 48</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,7</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="481.0,282.0" Width="65.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>will lead to</String>
+            <ConnectedNoteIDs>18, 45</ConnectedNoteIDs>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="567.0,368.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>meta-regression</String>
+            <ConnectedNoteIDs>5, 48</ConnectedNoteIDs>
+            <Formatting>
+                <FormatRange Bold="Yes">0,15</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="48" FontSize="12.0" Position="591.0,331.0" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>can be used for</String>
+            <ConnectedNoteIDs>45, 47</ConnectedNoteIDs>
+        </Note>
+        <Note ID="49" FontSize="12.0" Position="436.0,378.0" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>assessed with</String>
+        </Note>
+        <Note ID="50" FontSize="12.0" Position="219.882812,105.648438" Width="105.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>must be tested for</String>
+            <ConnectedNoteIDs>7, 13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="51" FontSize="12.0" Position="91.0,204.0" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>measured by</String>
+            <ConnectedNoteIDs>13-14</ConnectedNoteIDs>
+        </Note>
+        <Note ID="52" FontSize="12.0" Position="218.0,332.0" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>using</String>
+            <ConnectedNoteIDs>5, 14</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <AutoFit>0, 4, 7, 10, 13-18, 20-21, 23-34, 36-42, 44-52</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="38D06125-07F9-4963-A74E-31582D9011E5" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="D65418DE-2EF6-4069-8AA8-3382EDC1FE83" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="BDC4AD41-313C-4C82-A89E-3AD5EC535ECC" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882328 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="CA9D2087-F5D5-4FB9-B663-0BD7E9BCD088" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="2904DAA4-B6C2-4D1A-8574-AB0D6F3A0201" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="5BC5F001-1900-41D4-9F12-9BD7BD50083C" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="2FDD3698-9132-41CB-AEDD-B3216A90A904" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="595.289978,841.890015" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

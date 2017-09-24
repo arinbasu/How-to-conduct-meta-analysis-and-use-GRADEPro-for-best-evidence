@@ -1,0 +1,460 @@
+1. Int J Pediatr Otorhinolaryngol. 2014 Aug;78(8):1298-305. doi:
+10.1016/j.ijporl.2014.05.015. Epub 2014 May 23.
+
+Autoinflation for treatment of persistent otitis media with effusion in children:
+a cross-over study with a 12-month follow-up.
+
+Bidarian-Moniri A(1), Ramos MJ(2), Ejnell H(3).
+
+Author information:
+(1)Department of Otorhinolaryngology, Institute of Clinical Sciences, Sahlgrenska
+Academy at the University Of Gothenburg, Sahlgrenska University Hospital,
+Gothenburg, Sweden; Department of Otorhinolaryngology, Centro Hospitalar do
+Algarve, Department of Biomedical Sciences and Medicine, University of Algarve,
+Algarve, Portugal. Electronic address: armin.bidarian@vgregion.se.
+(2)Department of Otorhinolaryngology, Centro Hospitalar do Algarve, Department of
+Biomedical Sciences and Medicine, University of Algarve, Algarve, Portugal.
+(3)Department of Otorhinolaryngology, Institute of Clinical Sciences, Sahlgrenska
+Academy at the University Of Gothenburg, Sahlgrenska University Hospital,
+Gothenburg, Sweden.
+
+OBJECTIVES: The aims of the present study were to evaluate the efficacy of and
+compliance with a new device for autoinflation in the treatment of persistent
+otitis media with effusion (OME) in young children.
+METHODS: Forty-five children with persistent OME with a bilateral type B or C2
+tympanogram for at least three months and history of subjective hearing loss,
+waiting for grommet surgery, were randomised to a treatment and a control group.
+Twenty-three children aged between three and eight years started as the treatment
+group with the new device for autoinflation. Another 22 children, aged between
+two and eight years were included as controls. After a period of four weeks, a
+cross-over was performed. Both groups underwent otomicroscopy, tympanometry and
+audiometry at inclusion and after one and two months for the evaluation of
+treatment efficiency. The primary outcome measurements were improvement in
+middle-ear pressure and hearing thresholds at eight weeks. Both groups were then
+followed up for another 10 months.
+RESULTS: In the treatment group, the mean middle-ear pressure for both ears and
+the mean hearing thresholds for the best ear improved by 166 daPa (p<0.0001) and
+6 dB (p<0.0001), respectively after four weeks, while in the control group,
+non-significant alterations were observed. After the cross-over of the control
+group to treatment, equivalent improvements in the mean middle-ear pressure and
+the mean hearing thresholds of 187 daPa (p<0.0001) and 7 dB (p<0.01),
+respectively were achieved also in this group. After treatment in both groups at
+eight weeks, four of 45 children were submitted to grommet surgery. During the
+long-term follow-up another five children were submitted to surgery due to
+recurrence of disease. All the children managed to perform the manoeuvre and no
+side-effects were detected.
+CONCLUSION: The device demonstrated efficiency in improving both middle-ear
+pressure and hearing thresholds in most children after four weeks of treatment.
+It might therefore be possible to consider this method of autoinflation in
+children with persistent OME during the watchful waiting period.
+
+Copyright © 2014. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.ijporl.2014.05.015
+PMID: 24882460  [Indexed for MEDLINE]
+
+Wrong intervention
+
+
+2. Laryngoscope. 2008 Nov;118(11):2040-3. doi: 10.1097/MLG.0b013e31818208d6.
+
+The treatment for postirradiation otitis media with effusion: a study of three
+methods.
+
+Xu YD(1), Ou YK, Zheng YQ, Chen Y, Ji SF.
+
+Author information:
+(1)Department of Otolaryngology, Second Affiliated Hospital of Sun Yat-Sen
+University, Guangzhou, China.
+
+OBJECTIVE: To explore treatments for postirradiation otitis media with effusion
+(OME) in patients with nasopharyngeal carcinoma.
+STUDY DESIGN: This study is a prospective quasi-randomized clinical trial.
+METHODS: Ninety-six patients (135 ears) with OME after the first course of
+radiotherapy for nasopharyngeal carcinoma were divided into three groups: simple
+auripuncture plus aspiration, tympanic membrane fenestration with cauterization,
+and myringotomy plus grommet insertion. Cure rates and incidences of
+complications were compared.
+RESULTS: Two deaths occurred. The other 94 patients (132 ears) finished a 2-year
+follow-up. In group 1, four ears (8.9%) were cured after the first treatment and
+17 ears overall (37.8%) were cured by the end of the follow-up. Twenty ears
+(44.4%) had persistent fluid, two ears (4.4%) developed chronic suppurative
+otitis media, and five ears (11.1%) developed dry eardrum perforation. In group
+2, seven ears (15.6%) were cured after the first treatment and 21 ears overall
+(46.7%) were cured by the end of the follow-up. Fourteen ears (31.1%) had
+persistent fluid, three ears (6.7%) developed chronic suppurative otitis media,
+and seven ears (15.6%) developed dry eardrum perforation. In group 3, eight ears
+(17.8%) were cured after the first treatment and 23 ears overall (51.1%) were
+cured by the end of the follow-up. Seven ears (15.6%) had persistent fluid, five
+ears (11.1%) developed chronic suppurative otitis media, three ears (6.7%)
+developed eardrum perforation with effusion, and five ears (11.1%) developed dry
+eardrum perforation.
+CONCLUSION: The methods each have advantages and disadvantages. We believe that a
+step by step approach should be used when choosing the treatment method for
+postirradiation OME. That is, first apply auripuncture plus aspiration, and then
+the other methods if this approach is inadequate. Enhanced local care after
+grommet insertion can effectively reduce the incidence of complications.
+
+DOI: 10.1097/MLG.0b013e31818208d6
+PMID: 18818551  [Indexed for MEDLINE]
+Wrong participants
+
+
+3. Otol Neurotol. 2008 Aug;29(5):658-60. doi: 10.1097/MAO.0b013e3181776749.
+
+Optimizing local anesthesia for grommet insertion: eutectic mixture of local
+anaesthetics versus Ametop: a randomized clinical trial.
+
+Nichani J(1), Camilleri AE, Broomfield S, Saeed S.
+
+Author information:
+(1)South Manchester University Hospital, Manchester, United Kingdom.
+jayanichani@hotmail.com
+
+OBJECTIVE: To compare the effect of eutetic mixture of local anesthetics (EMLA)
+with Ametop in providing local anesthesia for grommet insertion.
+STUDY DESIGN: Double-blind randomized clinical trial.
+SETTING: University teaching hospital.
+PATIENTS: Forty-one adult patients diagnosed with otitis media with effusion were
+recruited into the trial and underwent grommet insertion under local anesthesia;
+21 were randomly allocated to the EMLA group and 20 to the Ametop group.
+MAIN OUTCOME MEASURES: The primary outcome measure of the study was the level of
+pain experienced by the patient. The secondary outcome measure was the overall
+satisfaction with the procedure. Both measures were assessed using visual
+analogue scales.
+RESULTS: Both the topical anesthetic agents provided good pain relief during
+grommet insertion. There was no statistically significant difference in the pain
+or satisfaction scores.
+CONCLUSION: Both EMLA and Ametop can provide good local anesthetic effect during
+grommet insertion.
+
+DOI: 10.1097/MAO.0b013e3181776749
+PMID: 18665031  [Indexed for MEDLINE]
+Wrong study question
+
+4. Plast Reconstr Surg. 2007 May;119(6):1859-65.
+
+Does palatal muscle reconstruction affect the functional outcome of cleft palate
+surgery?
+
+Hassan ME(1), Askar S.
+
+Author information:
+(1)General Surgery Department, Pediatric Surgery Unit, Faculty of Medicine,
+Zagazig University, Zagazig City, Egypt. dmia88@hotmail.com
+
+BACKGROUND: This study was designed to compare two-layer palatoplasty
+(Wardill-Kilner V-Y pushback technique) without intravelar veloplasty versus
+three-layer palatoplasty (Kriens technique) with intravelar veloplasty with
+regard to postoperative functional outcome of eustachian tube and velopharyngeal
+competence.
+METHODS: A prospective cohort study was conducted enrolling 70 patients with
+nonsyndromic cleft palate (except submucous type of cleft) over a period of 2
+years. They were divided into two main groups according to the type of cleft
+palate: group A (Veau class II) included 32 patients and group B (Veau class I)
+included 38 patients. In each group, Wardill-Kilner palatoplasty (two-layer
+repair without intravelar veloplasty) versus Kriens palatoplasty (three-layer
+repair with intravelar veloplasty) was randomly selected for patients.
+RESULTS: For the three-layer palatoplasty in both groups, there was a greater
+tendency for resolution of secretory otitis media in the early postoperative
+period, less time required for extrusion of the grommet tube, and a lower
+incidence of recurrent secretory otitis media. The incidence of postoperative
+velopharyngeal incompetence was greater with two-layer palatoplasty group. The
+incidence of palatal fistula was greater with three-layer palatoplasty.
+CONCLUSIONS: Palatal muscle reconstruction in cleft palate patients confers
+better functional results regarding velopharyngeal competence and eustachian tube
+function. Although the overall incidence of postoperative palatal fistula is
+within the accepted range, the incidence of fistula is higher in the palatal
+muscle reconstruction subgroup. Future studies are required that include a larger
+number of patients.
+
+DOI: 10.1097/01.prs.0000259185.29517.79
+PMID: 17440366  [Indexed for MEDLINE]
+Wrong study
+
+5. Otol Neurotol. 2005 Sep;26(5):882-9.
+
+Hyperbaric oxygen therapy for sudden sensorineural hearing loss: a prospective
+trial of patients failing steroid and antiviral treatment.
+
+Horn CE(1), Himel HN, Selesnick SH.
+
+Author information:
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Weill Medical
+College, Cornell University, New York, New York 10021, USA.
+
+OBJECTIVE: To investigate the safety and efficacy of hyperbaric oxygen therapy
+(HBOT) in adult patients with sudden sensorineural hearing loss (SSNHL) who fail
+standard of care steroid and antiviral therapy.
+STUDY DESIGN: Prospective cohort study.
+SETTING: An urban tertiary referral center.
+PATIENTS: Nine adult patients presenting with SSNHL from December 2002 through
+February 2004. Patients with acute onset SSNHL of greater than 30 dB in three
+contiguous frequencies who failed to show audiometric improvement after 2 weeks
+of systemic steroids and antivirals were enrolled.
+INTERVENTIONS: Study patients received HBOT at 2.0 atmospheric pressure for 90
+minutes while breathing 100% oxygen under a clear plastic hood in the chamber.
+Treatments were administered daily for 10 days over a 2-week period.
+MAIN OUTCOME MEASURES: Pre-and postHBOT mean hearing gains measured in decibels
+for pure-tone audiometry at 0.5, 1, 2, 3, and 4 KHz for bone and additional 8 KHz
+for air; pure-tone averages for air and bone; speech reception thresholds; and
+speech discrimination levels. Patient-reported subjective recovery rates
+(completely, substantially, partially, not improved) were also recorded.
+RESULTS: Overall, two patients had a dramatic improvement, and one patient had a
+dramatic improvement in his speech discrimination without improvement in other
+audiometric measures. Six patients had no demonstrable hearing gains. Two
+patients had complications of serous otitis media requiring myringotomy and
+pressure equalizing tube placement. No other complications were observed.
+CONCLUSIONS: Secondary HBOT after failure of systemic steroid and antiviral
+therapy may be associated with hearing gains in some patients with SSNHL.
+
+
+PMID: 16151333  [Indexed for MEDLINE]
+Wrong study
+
+6. Int Arch Allergy Immunol. 1994;103(1):95-101.
+
+Treatment of secretory otitis media with local instillation of hydroxyzine.
+
+Theoharides TC(1), Manolidis SS, Vliagoftis H, Manolidis LS.
+
+Author information:
+(1)Department of Pharmacology and Experimental Therapeutics, Tufts University
+School of Medicine, Boston, Mass. 02111.
+
+The study is a preliminary single-blind, placebo- and prednisolone-controlled
+investigation of the treatment of 156 children with otitis media with effusion
+(secretory otitis media, SOM), ranging from 2 to 12 years. The protocol involved
+tympanotomy and placement of a ventilation tube (grommet), through which control
+or drug solutions were introduced. Other parameters and coexisting symptoms which
+could contribute to SOM were also examined. Patients were divided into 3 groups
+as follows: group A: control (normal saline, 2 ml); group B: prednisolone (25 mg
+in 2 ml); group C: hydroxyzine pamoate (10(-5) M in 2 ml). The results indicate
+that in those children treated with hydroxyzine, the rate of relapse was
+significantly reduced and so was the amount of histamine present in middle ear
+effusions. The effectiveness of hydroxyzine is discussed in the context of the
+pathophysiology of SOM, especially with respect to mast cells and their
+activation by allergic and nonallergic means.
+
+
+PMID: 8260856  [Indexed for MEDLINE]
+Wrong comparison group (all of them were surgical)
+
+7. Acta Otorhinolaryngol Belg. 1994;48(4):317-24.
+
+The long term outcome of secretory otitis media in children and the effects of
+surgical treatment: a ten year study.
+
+Maw AR(1), Bawden R.
+
+Author information:
+(1)Department of Otolaryngology, Bristol Royal Infirmary, Royal Hospital for Sick
+Children, UK.
+
+Two hundred and twenty two children with bilateral secretory otitis media were
+allocated at random for adenoidectomy, adenotonsillectomy or for neither
+procedure. In all cases only a unilateral grommet was inserted. The contralateral
+unoperated ear was examined during a ten year period to show otoscopic clearance,
+change in tympanometric status and improvement in mean hearing threshold.
+Adenoidectomy or insertion of a grommet alone produces similar improvement but in
+combination are more effective than either procedure in isolation. The unoperated
+ear in cases not receiving either procedure reflects the natural history of the
+condition. It shows a steady improvement in all outcome measures as time passes.
+
+
+PMID: 7810300  [Indexed for MEDLINE]
+selected
+
+8. Clin Otolaryngol Allied Sci. 1993 Jun;18(3):188-92.
+
+Conservative treatment of otitis media with effusion by autoinflation of the
+middle ear.
+
+Blanshard JD(1), Maw AR, Bawden R.
+
+Author information:
+(1)Department of Otolaryngology, Bristol Royal Infirmary, UK.
+
+A total of 85 children on the waiting list for grommet insertion aged between 3
+and 10 years with bilateral chronic otitis media with effusion (OME) were
+assigned at random to an observation or treatment group. Those in the treatment
+group were given the Otovent device to use three times a day for the duration of
+the study and both groups were then seen at monthly intervals for 3 months for
+pneumatic otoscopy and tympanometry. Statistically significant improvement was
+seen in those using the treatment with a compliance of more than 70%. This was
+detected on the outcome measures of tympanometry and pneumatic otoscopy after 1,
+2 and 3 months. No side effects were demonstrated. We conclude that autoinflation
+is an effective short-term treatment for children with OME when used regularly
+under supervision.
+
+
+PMID: 8365006  [Indexed for MEDLINE]
+wrong intervention
+
+9. J Laryngol Otol. 1993 Apr;107(4):284-9.
+
+A randomized study of the surgical management of children with persistent otitis
+media with effusion associated with a hearing impairment.
+
+Dempster JH(1), Browning GG, Gatehouse SG.
+
+Author information:
+(1)Department of Otolaryngology, Royal Infirmary, Glasgow.
+
+The object of this study was to compare the effect on the hearing of the
+insertion of a grommet, with or without adenoidectomy, against a non-surgically
+managed control ear in children with persistent hearing impairment due to otitis
+media with effusion. Seventy-eight children (44 boys, 34 girls, mean age 5.8
+years) with documented bilateral otitis media with effusion associated with a
+bilateral hearing impairment (pure tone average air conduction thresholds over
+0.5, 1 and 2 kHz of > or = 25 dB HL) over a three month period were admitted to a
+randomized, controlled trial. Each child was randomized to have or not to have an
+adenoidectomy. The ears in each child were then randomly allocated to have a
+grommet (tympanostomy tube) inserted. The children's hearing status was reviewed
+six and 12 months post-operatively. During follow-up, should a child redevelop a
+persistent bilateral hearing impairment (as defined above) for three months they
+were managed with a hearing aid. Thus no child had repeat insertion of a grommet.
+Surgery of each type had an effect on the hearing and the presence of otitis
+media with effusion at six months post-operatively but not at 12 months when it
+was no different from natural resolution. If resolution of the otitis media with
+effusion is the outcome measure, then adenoidectomy alone is significantly better
+than no surgery but only in boys rather than in girls. Even in boys it only
+resolves about 60 per cent of effusions. However, when combined with a grommet
+(one insertion) adenoidectomy gives no greater resolution (89 per cent compared
+with 86 per cent).(ABSTRACT TRUNCATED AT 250 WORDS)
+
+
+PMID: 8320510  [Indexed for MEDLINE]
+Selected
+
+10. J Laryngol Otol. 1993 Feb;107(2):108-10.
+
+The mini-grommet and tympanosclerosis: results at two years.
+
+Dingle AF(1), Flood LM, Kumar BU, Hampal S.
+
+Author information:
+(1)North Riding Infirmary, Middlesbrough, Cleveland.
+
+One hundred and sixteen children with otitis media with effusion (OME) underwent
+surgery with grommet insertion. A conventional Shah grommet was used in one ear,
+and a Mini-Shah grommet in the other. Final review of the subjects two years
+after surgery revealed a significantly lesser degree of tympanosclerosis in the
+ear into which the Mini-Shah grommet had been inserted. This benefit might have
+resulted from the lesser mass of the mini-tube or its shorter duration in situ.
+
+
+PMID: 8496640  [Indexed for MEDLINE]
+wrong comparison
+
+11. Clin Otolaryngol Allied Sci. 1992 Oct;17(5):411-4.
+
+The effect of parental smoking on outcome after treatment for glue ear in
+children.
+
+Maw AR(1), Parker AJ, Lance GN, Dilkes MG.
+
+Author information:
+(1)Department of Otolaryngology, Bristol Royal Infirmary, UK.
+
+A sample of 201 children aged between 2 and 9 years with bilateral chronic otitis
+media with effusion (OME) were treated prospectively and at random by
+adenoidectomy, adenotonsillectomy, or with neither procedure. In all cases only a
+unilateral grommet was inserted and the contralateral unoperated ear was examined
+one year post-operatively for persistence or resolution of the effusion. A
+self-administered questionnaire was completed by the parents concerning their
+smoking habits. The resolution of effusion following surgery was assessed in
+relation to smoking by by the mother and father separately and in combination.
+Clearance of glue was statistically less frequent where the child's mother or
+where both parents smoked. This was related to the number of cigarettes smoked by
+the mother or both parents. The adverse effect was demonstrable whether or not
+adenoidectomy or adenotonsillectomy had been performed for treatment. The
+findings lend further support or professional and governmental opinions of a
+deleterious effect of passive smoke exposure on children and in this case
+parental smoking has been shown to have an adverse effect on the outcome of OME
+following surgical treatment.
+
+
+PMID: 1458623  [Indexed for MEDLINE]
+wrong study question
+
+12. J Laryngol Otol. 1991 Mar;105(3):161-4.
+
+The mini-grommet and tympanosclerosis.
+
+Hampal S(1), Flood LM, Kumar BU.
+
+Author information:
+(1)Research Foundation, North Riding Infirmary, Middlesbrough.
+
+One hundred and sixteen children with otitis media with effusion underwent
+myringotomy and insertion of a conventional pattern of Shah grommet in one ear
+and the much smaller Mini Shah grommet in the other. Close observation
+post-operatively determined the comparative rate of extrusion, recurrence of
+effusion, and of onset and degree of tympanosclerosis. At one year review, the
+Mini Shah shows a significantly earlier extrusion and a greater tendency to
+recurrence of otitis media with effusion. However, this is compensated by a
+decreased incidence of tympanosclerosis and reduced severity in those affected.
+This tends to support the view that shear forces produced by heavier patterns of
+ventilation tube promote tympanosclerosis.
+
+
+PMID: 2019798  [Indexed for MEDLINE]
+wrong comparison
+
+13. BMJ. 1990 Jun 16;300(6739):1551-6.
+
+A randomised controlled trial of surgery for glue ear.
+
+Black NA(1), Sanderson CF, Freeland AP, Vessey MP.
+
+Author information:
+(1)Department of Public Health and Policy, London School of Hygiene and Tropical
+Medicine.
+
+Comment in
+    BMJ. 1990 Aug 4;301(6746):289-90.
+
+OBJECTIVE: To assess the effect of five different surgical treatments for glue
+ear (secretory otitis media) on improvement in hearing and, assuming one or more
+treatments to be effective, to identify the appropriate indications for surgery.
+DESIGN: Randomised controlled trial of children receiving (a) adenoidectomy,
+bilateral myringotomy, and insertion of a unilateral grommet; (b) adenoidectomy,
+unilateral myringotomy, and insertion of a unilateral grommet; (c) bilateral
+myringotomy and insertion of a unilateral grommet; and (d) unilateral myringotomy
+and insertion of a grommet. Children were followed up at seven weeks, six months,
+12 months, and 24 months by symptom history and clinical investigations.
+SETTING: Otolaryngology department in an urban hospital.
+PATIENTS: 149 Children aged 4-9 years who were admitted for surgery for glue ear
+and who had no history of previous operations on tonsils, adenoids, or ears and
+no evidence of sensorineural deafness. Inadequate follow up information on levels
+of hearing and on middle ear function was obtained from 22.
+MAIN OUTCOME MEASURES: Mean hearing loss (dB) of the three worst heard
+frequencies between 250 and 4000 Hz, results of impedance tympanometry, and
+parental views on their child's progress.
+RESULTS: In the 127 children for whom adequate information was available ears in
+which a grommet had been inserted performed better in the short term (for at
+least six months) than those in which no grommet had been inserted, irrespective
+of any accompanying procedure. Most of the benefit had disappeared by 12 months.
+Adenoidectomy produced a slight improvement that was not significant, though was
+sustained for at least two years. The ears of children who had had an
+adenoidectomy with myringotomy and grommet insertion, however, continued to
+improve so that two years after surgery about 50% had abnormal tympanometry
+compared with 83% of those who had had only myringotomy and grommet insertion,
+and 93% of the group that had had no treatment. Logistic regression analyses
+identified preoperative hearing level as the single best predictor of good
+outcome from surgery. Other variables contributed little additional predictive
+power.
+CONCLUSIONS: If the principal objective of surgery for glue ear is to restore
+hearing then our study shows that insertion of grommets is the treatment of
+choice. The addition of an adenoidectomy will increase the likelihood of
+restoration of normal function of the middle ear but will not improve hearing.
+When deciding appropriate indications for surgery, a balance has to be made
+between performing unnecessary operations and failing to treat patients who might
+benefit from surgical intervention. Preoperative audiometry scores might be the
+best predictor in helping to make this decision.
+
+
+PMCID: PMC1663097
+PMID: 2196954  [Indexed for MEDLINE]
+Selected

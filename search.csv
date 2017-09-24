@@ -1,0 +1,16 @@
+Search,Query,Items found,Time
+#15,"Search #13 AND #14",3,21:51:26
+#14,"Search #6 AND #7",81,21:51:09
+#13,"Search #10 OR #11 OR #12",926651,21:49:44
+#12,"Search ""Trial""[Title/Abstract]",479027,21:48:42
+#11,"Search ""Placebo""[Title/Abstract]",187653,21:47:46
+#10,"Search #8 OR #9",641865,21:47:16
+#9,"Search ""Randomized""[Title/Abstract]",420405,21:46:52
+#8,"Search ""Randomized controlled trial""[pt]",443051,21:46:16
+#7,"Search morphine/",53775,21:41:12
+#6,"Search #1 OR #2 OR #3 OR #4 OR #5",2667,21:40:34
+#5,"Search exp SOMATOSENSORY DISORDERS/",616,21:40:05
+#4,"Search ((neur* or nerv*) AND (compress* or damag*))[mp]",98,21:39:34
+#3,"Search ((pain* or discomfort*) AND (central or complex or nerv* or neuralg* or neuropath*))[mp]",155,21:38:16
+#2,"Search exp Peripheral Nervous System Diseases/",1949,21:29:29
+#1,"Search exp Neuralgia/",277,21:28:47

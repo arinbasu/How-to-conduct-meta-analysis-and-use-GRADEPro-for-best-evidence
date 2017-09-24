@@ -1,0 +1,37 @@
+exp NEURALGIA/
+
+exp PERIPHERAL NERVOUS SYSTEM DISEASES/
+
+exp SOMATOSENSORY DISORDERS/ (18817)
+
+((pain* or discomfort*) AND (central or complex or nerv* or neuralg* or neuropath*))[mp] (46313)
+
+((neur* or nerv*) AND (compress* or damag*))[mp] (53946)
+
+1 or 2 or 3 or 4 or 5 (210458)
+
+Morphine/ (36140)
+
+(Morphine or Dulcontin or Kapanol or Morcap or (MST Continus) or Oramorph or Roxanol or Sevredol or Slo-Morph or Zomorph).mp. (50379)
+
+7 or 8 (50379)
+
+randomized controlled trial.pt. (447705)
+
+randomized.ab. (340542)
+
+placebo.ab. (168289)
+
+drug therapy.fs. (1934054)
+
+randomly.ab. (234814)
+
+trial.ab. (356016)
+
+groups.ab. (1462628)
+
+10 or 11 or 12 or 13 or 14 or 15 or 16 (3658507)
+
+6 and 9 and 17 (1985)
+
+limit 18 to "all adult (19 plus years)" (797)

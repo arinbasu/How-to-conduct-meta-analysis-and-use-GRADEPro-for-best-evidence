@@ -1,0 +1,14 @@
+---
+title: Demo
+author: Arindam
+output:html_document
+---
+
+## This is a second level header
+Lorem ipsum ....
+
+```{r simple_calculator}
+(3 + 5)
+weight <- 35
+(weight)
+```
